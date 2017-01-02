@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>SourceCodePro-Bold.otf</file>
+        <file>SourceCodePro-ExtraLight.otf</file>
+    </qresource>
+</RCC>
